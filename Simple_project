@@ -2,9 +2,9 @@ Simple project
 
 SQLite3 configuration on RaspberryPi
 
-'''linux
+```linux
 sudo apt install sqlite3
-'''
+```
 
 sqlite3 heart_attack.db
 
