@@ -2,9 +2,12 @@ Simple project
 
 SQLite3 configuration on RaspberryPi
 
-```
-sudo apt install sqlite3
-```
+Install sqlite3
+`sudo apt install sqlite3`
 
-sqlite3 heart_attack.db
+Create database
+`sqlite3 heart_attack.db`
+
+
+Create table in database and import data from CSV
 
