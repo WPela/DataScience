@@ -2,7 +2,7 @@ Simple project
 
 SQLite3 configuration on RaspberryPi
 
-```linux
+```
 sudo apt install sqlite3
 ```
 
